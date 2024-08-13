@@ -1,4 +1,4 @@
-# yavsak furko için yapıldı
+# yavşak furko için yapıldı
 
 # Whatsapp-Spam
 ```
