@@ -1,5 +1,6 @@
-yavsak furko için yapıldı
-# SpamWa
+# yavsak furko için yapıldı
+
+# Whatsapp-Spam
 ```
 $ pkg install python
 $ pkg install git
